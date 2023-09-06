@@ -58,4 +58,18 @@ footer {
 /* Estilo para el enlace activo en el menú de navegación */
 nav a.active {
     background-color: #007BFF; /* Fondo del enlace activo */
+
+/* Estilos generales */
+/* ... (otros estilos) */
+
+/* Estilo para la foto */
+#tu-foto {
+    max-width: 100%; /* Esto ajustará la imagen al ancho máximo del contenedor */
+    height: auto; /* Esto mantendrá la proporción original de la imagen */
+    display: block; /* Esto eliminará cualquier espacio en blanco alrededor de la imagen */
+    margin: 0 auto; /* Esto centrará la imagen horizontalmente */
+}
+
+
+    
 }
